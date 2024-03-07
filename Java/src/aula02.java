@@ -10,8 +10,6 @@ public class aula02 {
         c1.tampar();
         c1.status();
         c1.rabiscar();
-
-
     }
 
 }
