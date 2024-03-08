@@ -1,3 +1,5 @@
+package Aula02;
+
 public class aula02 {
     public static void main(String[] args){
 
